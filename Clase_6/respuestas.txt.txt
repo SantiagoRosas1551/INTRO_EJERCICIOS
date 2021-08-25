@@ -1,0 +1,7 @@
+1. Git fue creado por Linus Tovalds en respuesta a la caida de Bitkeeper un sowftware que era  utilizado en el kernel de Linux.
+2. La actual dueña de github es la multinacional Microsoft, quien lo adquirio por una suma de 7.500 millones de dolares. Microsoft se reconoce como una empresa que antepone al desarrollador y busca unir fuerzas con GitHub para reforzar su compromiso con la libertad, la apertura y la innovación
+<<<<<<< HEAD
+3. Si, podemos utilizar interfaces graficas de usuario como son gitk y git-gui. Gitk es un visor del historico, es deir que nos permite encontrar acciones pasada en el proyecto y ver el historial de modificaciones en el mismo. Mientras que git-gui es una herrmaienta que permite crear commits de la misma forma que lo hacemos a traves de la terminal.
+=======
+3.  Si, podemos utilizar interfaces graficas de usuario como son gitk y git-gui. Gitk es un visor del historico, es deir que nos permite encontrar acciones pasada en el proyecto y ver el historial de modificaciones en el mismo. Mientras que git-gui es una herrmaienta que permite crear commits de la misma forma que lo hacemos a traves de la terminal.
+>>>>>>> rosas_santiago
